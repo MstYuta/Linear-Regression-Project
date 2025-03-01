@@ -29,7 +29,7 @@ pip install numpy pandas scikit-learn xgboost
 ```
 Linear-Regression-Project/
 │── HousingData.csv           # Dataset file
-│── house_pricing_model.py    # Main Python script
+│── House_pricing_model.py    # Main Python script
 │── README.md                 # Project documentation
 ```
 
@@ -71,6 +71,6 @@ Linear-Regression-Project/
 To run the project, execute:
 
 ```bash
-python house_pricing_model.py
+python House_pricing_model.py
 ```
 
